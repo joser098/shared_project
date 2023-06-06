@@ -19,6 +19,9 @@ const Home = () => {
             <NavLink to='facu'>
             <button>2 F</button>
             </NavLink>
+            <NavLink to='roque'>
+            <button>to roque</button>
+            </NavLink>
             <button>3</button>
             <button>4</button>
             <button>5</button>
