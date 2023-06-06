@@ -7,6 +7,7 @@ const Component1 = () => {
             <h2>Componente J</h2>
 
             <p>Este es mi componente para pracicar git flow 👀 </p>
+            <p>Ejercicio</p>
 
             <NavLink to='/'>
                 <button>Back</button>
