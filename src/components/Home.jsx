@@ -16,7 +16,9 @@ const Home = () => {
             <NavLink to='jose'>
                 <button>1</button>
             </NavLink>
-            <button>2</button>
+            <NavLink to='facu'>
+            <button>2 F</button>
+            </NavLink>
             <button>3</button>
             <button>4</button>
             <button>5</button>
