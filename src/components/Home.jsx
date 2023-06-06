@@ -22,6 +22,9 @@ const Home = () => {
             <NavLink to='roque'>
             <button>to roque</button>
             </NavLink>
+            <NavLink to='isaac'>
+                <button>to Isaac</button>
+            </NavLink>
             <button>3</button>
             <button>4</button>
             <button>5</button>
