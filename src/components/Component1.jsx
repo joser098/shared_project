@@ -5,7 +5,7 @@ const Component1 = () => {
     return (
         <>
             <h2>Componente J</h2>
-            <p>Este es mi componente para pracicar git flow</p>
+            <p>Este es mi componente para pracicar git flow 👀 </p>
             <NavLink to='/'>
                 <button>Back</button>
             </NavLink>
